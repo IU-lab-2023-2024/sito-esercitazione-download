@@ -70,3 +70,18 @@ nav a:hover, .link-decoration-none:hover {
 .img-s {
     width: 10%;
 }
+
+/* lists */
+nav li {
+    display: inline !important;
+}
+
+/* borders */
+.border-r-0 {
+    border-radius: 0 !important;
+}
+
+/* button */
+.btn-light-blue {
+    background-color: #4E6C7E !important;
+}
